@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c4fcdafb-6ced-4741-a217-23bb17525144" name="新加坡服务器" url="http://47.88.152.59">
+        <fileTransfer host="47.88.152.59" port="22" rootFolder="/www/wwwroot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="af8ab35e-4026-48f5-a496-d4dad544c306" name="醉美" url="http://47.91.236.3">
+        <fileTransfer host="47.91.236.3" port="22" rootFolder="/www/wwwroot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="89796c92-00e8-44c5-a779-ae05be00e6b9" name="金徽" url="http://103.94.76.122">
+        <fileTransfer host="103.94.76.122" port="22" rootFolder="/www/wwwroot" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

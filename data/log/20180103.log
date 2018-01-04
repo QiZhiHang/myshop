@@ -1,0 +1,24 @@
+[2018-01-03 16:52:28] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1514965948' )
+[2018-01-03 16:52:28] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+SELECT * FROM `feiwa_apiseccode` WHERE ( sec_key = '66f6c8ad' ) LIMIT 1  
+[2018-01-03 17:00:26] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1514966426' )
+[2018-01-03 17:00:26] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+SELECT * FROM `feiwa_apiseccode` WHERE ( sec_key = '66f6c8ad' ) LIMIT 1  
+[2018-01-03 17:01:34] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1514966494' )
+[2018-01-03 17:01:34] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+SELECT * FROM `feiwa_apiseccode` WHERE ( sec_key = '66f6c8ad' ) LIMIT 1  
+[2018-01-03 17:02:23] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1514966543' )
+[2018-01-03 17:02:23] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+SELECT * FROM `feiwa_apiseccode` WHERE ( sec_key = '66f6c8ad' ) LIMIT 1  

@@ -1,0 +1,39 @@
+[2018-01-04 11:52:41] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1515034361' )
+[2018-01-04 11:52:41] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+SELECT * FROM `feiwa_apiseccode` WHERE ( sec_key = '66f6c8ad' ) LIMIT 1  
+[2018-01-04 11:53:16] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1515034396' )
+[2018-01-04 11:53:16] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+SELECT * FROM `feiwa_apiseccode` WHERE ( sec_key = '66f6c8ad' ) LIMIT 1  
+[2018-01-04 11:53:38] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1515034418' )
+[2018-01-04 11:53:38] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+SELECT * FROM `feiwa_apiseccode` WHERE ( sec_key = '66f6c8ad' ) LIMIT 1  
+[2018-01-04 11:53:52] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1515034432' )
+[2018-01-04 11:53:52] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+SELECT * FROM `feiwa_apiseccode` WHERE ( sec_key = '66f6c8ad' ) LIMIT 1  
+[2018-01-04 13:15:58] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1515039358' )
+[2018-01-04 13:16:19] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1515039379' )
+[2018-01-04 13:16:19] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_key = '66f6c8ad' )
+[2018-01-04 13:16:48] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+DELETE  FROM `feiwa_apiseccode` WHERE ( sec_addtime <= '1515039408' )
+[2018-01-04 13:23:17] /mo_bile/index.php?app=member_fund&feiwa=rechargecard_add ( app=member_fund&feiwa=rechargecard_add ) 
+ERR: Db Error: Table 'myshop.feiwa_apiseccode' doesn't exist
+SELECT * FROM `feiwa_apiseccode` WHERE ( sec_key = '66f6c8ad' ) LIMIT 1  
